@@ -9,7 +9,7 @@ function Card({user},props){
 
     let pluss=()=>{
 
-        console.log(props, 22)
+        console.log(props, 222)
 
     }
 
